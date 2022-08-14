@@ -1600,6 +1600,7 @@
     "apollo-env" "^0.5.1"
     "lodash.sortby" "^4.7.0"
 
+<<<<<<< HEAD
 "apollo-link-context@^1.0.19":
   "integrity" "sha512-TUi5TyufU84hEiGkpt+5gdH5HkB3Gx46npNfoxR4of3DKBCMuItGERt36RCaryGcU/C3u2zsICU3tJ+Z9LjFoQ=="
   "resolved" "https://registry.npmjs.org/apollo-link-context/-/apollo-link-context-1.0.19.tgz"
@@ -1608,6 +1609,8 @@
     "apollo-link" "^1.2.13"
     "tslib" "^1.9.3"
 
+=======
+>>>>>>> b3994c9a7a939ea2cf497bf8da2c5642694f57b8
 "apollo-link-http-common@^0.2.15":
   "integrity" "sha512-+Heey4S2IPsPyTf8Ag3PugUupASJMW894iVps6hXbvwtg1aHSNMXUYO5VG7iRHkPzqpuzT4HMBanCTXPjtGzxg=="
   "resolved" "https://registry.npmjs.org/apollo-link-http-common/-/apollo-link-http-common-0.2.15.tgz"
@@ -9056,6 +9059,7 @@
   "resolved" "https://registry.npmjs.org/utils-merge/-/utils-merge-1.0.1.tgz"
   "version" "1.0.1"
 
+<<<<<<< HEAD
 "uuid@^3.1.0":
   "integrity" "sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A=="
   "resolved" "https://registry.npmjs.org/uuid/-/uuid-3.4.0.tgz"
@@ -9070,6 +9074,12 @@
   "integrity" "sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg=="
   "resolved" "https://registry.npmjs.org/uuid/-/uuid-8.3.2.tgz"
   "version" "8.3.2"
+=======
+"uuid@^3.1.0", "uuid@^3.3.2":
+  "integrity" "sha512-pW0No1RGHgzlpHJO1nsVrHKpOEIxkGg1xB+v0ZmdNH5OAeAwzAVrCnI2/6Mtx+Uys6iaylxa+D3g4j63IKKjSQ=="
+  "resolved" "https://registry.npmjs.org/uuid/-/uuid-3.3.3.tgz"
+  "version" "3.3.3"
+>>>>>>> b3994c9a7a939ea2cf497bf8da2c5642694f57b8
 
 "v8-compile-cache@^2.0.0":
   "integrity" "sha512-usZBT3PW+LOjM25wbqIlZwPeJV+3OSz3M1k1Ws8snlW39dZyYL9lOGC5FgPVHfk0jKmjiDV8Z0mIbVQPiwFs7g=="

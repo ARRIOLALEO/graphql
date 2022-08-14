@@ -6,6 +6,7 @@ import NewPetModal from '../components/NewPetModal'
 import Loader from '../components/Loader'
 import {v4 as uuid} from 'uuid'
 
+
 const PETS_FIELDS =gql`
 fragment PetFields on Pet {
   id

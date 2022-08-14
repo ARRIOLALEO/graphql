@@ -5,6 +5,7 @@ import {ApolloLink} from 'apollo-link'
 import gql from 'graphql-tag'
 import { setContext } from 'apollo-link-context'
 
+
 /**
  * Create a new apollo client and export as default
  */
@@ -44,6 +45,7 @@ const client = new ApolloClient({
     typeDefs,
     resolvers
 })
+
 
 
 export default client
